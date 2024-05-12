@@ -53,3 +53,10 @@ Avalanche is the name given to a niched resource that enables individuals to cre
 2. Click the "Update Name" button to set the new account name.
 3. Confirm the transaction in MetaMask.
 4. The account name will be updated, and the change will be reflected in the account details.
+
+## Author
+
+I would like to thanks the Metacrafters for providing a template for this Module 2 Assessment. https://github.com/MetacrafterChris/SCM-Starter.git
+
+Eugenio, Viel
+3.1 BSIT
