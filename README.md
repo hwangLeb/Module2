@@ -1,8 +1,10 @@
 # Module2
+## Description
 
-## Installation ⬇️
+Avalanche is the name given to a niched resource that enables individuals to create and execute Dapps as well as create blockchain networks without the need for intermediaries. Avalanche has the goal of being the remedy to both scalability and throughput issues that engage traditional blockchain systems. The platform provides amazingly fast transactions and finality in milliseconds because of the consensus protocol, Avalanche. The architecture of Avalanche that is able to adapt to the challenges of scalability is layered, so developers are able to design blockchain networks with their own features and features most needed by the use cases. 
+## Installation
 
-### Follow these steps to get the project up and running 🏗️
+### Follow these steps to get the project up and running 
 
 1. Download or clone the project.
 2. Install the dependencies by running `npm install`.
@@ -10,19 +12,19 @@
 4. Open new terminal and deploy the Bank contract `npx hardhat run --network localhost scripts/deploy.js`.
 5. Start the development server by running `npm run dev`.
 
-### Configure MetaMask to use the Hardhat node 🦊
+### Configure MetaMask to use the Hardhat node
 
 1. Open the MetaMask extension in your browser.
 2. Click on the account icon in the top right corner and select "Settings".
 3. In the "Networks" tab, click on "Add Network".
 4. Fill in the following details:
-   - Network Name: hardhat-test-network
+   - Network Name: levi
    - RPC URL: http://127.0.0.1:8545/
    - Chain ID: 31337
-   - Currency Symbol: GO or ETH
+   - Currency Symbol: ETH
 5. Click on "Save" to add the Hardhat network to MetaMask.
 
-### Add accounts using private keys by Hardhat for testing 🔑
+### Add accounts using private keys by Hardhat for testing 
 
 1. In the MetaMask extension, click on the account icon in the top right corner.
 2. Select "Import Account" or "Import Account using Private Key" (depending on your version of MetaMask).
@@ -35,7 +37,7 @@
 > If you need detailed instructions or visual guidance, you can refer to this step-by-step guide on [how to use MetaMask with a Hardhat node](https://support.chainstack.com/hc/en-us/articles/4408642503449-Using-MetaMask-with-a-Hardhat-node).
 
 
-## Usage 🪜
+## Usage
 
 **To use the application, follow these instructions:**
 
