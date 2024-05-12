@@ -34,7 +34,7 @@ Avalanche is the name given to a niched resource that enables individuals to cre
 4. Click on "Import" to import the account into MetaMask.
 5. Repeat the above steps to add more accounts for testing purposes.
 
-> If you need detailed instructions or visual guidance, you can refer to this step-by-step guide on [how to use MetaMask with a Hardhat node](https://support.chainstack.com/hc/en-us/articles/4408642503449-Using-MetaMask-with-a-Hardhat-node).
+
 
 
 ## Usage
